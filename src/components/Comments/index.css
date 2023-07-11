@@ -1,0 +1,66 @@
+/* Write your CSS here */
+.container {
+  padding: 20px;
+}
+.heading-style {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.desc-style {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.name-input-box {
+  height: 40px;
+  width: 300px;
+  border-color: #475569;
+  border-radius: 5px;
+  margin: 5px;
+}
+.comment-input-box {
+  height: 150px;
+  width: 300px;
+  border-color: #475569;
+  border-radius: 5px;
+  margin: 5px;
+}
+.btn-style {
+  height: 30px;
+  width: 150px;
+  background-color: #0284c7;
+  color: #cbd2d9;
+  border-radius: 5px;
+}
+.comments-image {
+  height: 300px;
+  width: 350px;
+}
+.top-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.comments-table {
+  border-color: #475569;
+}
+.no-of-comments-container {
+  height: 30px;
+  width: 30px;
+  border-width: 0px;
+  border-color: #0284c7;
+}
+.no-of-comments-title {
+  color: #1e293b;
+}
+.input-comments-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.comments-form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,49 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.profile-container {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  color: #ffffff;
+  margin: 10px;
+}
+.username-style {
+  color: #334155;
+}
+.time-style {
+  color: #94a3b8;
+}
+.name-and-profile-details {
+  display: flex;
+  justify-content: flex-start;
+}
+.comment-style {
+  color: #64748b;
+}
